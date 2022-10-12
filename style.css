@@ -12,6 +12,40 @@ body{
 #tarolo{
     margin: auto;
     width: 80%;
-    max-width: 600px;
+    max-width: 800px;
     background-color: #dbe8f0;
+    color: #116280;
+    padding: 10px;
+}
+
+.autobal{
+    border-top: 2px solid rgb(150,158,162); 
+}
+
+.autojobb{
+    border-top: 2px solid rgb(150,158,162);
+}
+
+.autobal img{
+    float: left;
+    margin-bottom: 15px;
+    margin-right: 5px;
+}
+
+.autobal p{
+    text-align: justify;
+}
+
+.autojobb img{
+    float: right;
+    margin-bottom: 15px;
+    margin-right: 5px;
+}
+
+.autojobb p{
+    text-align: justify;
+}
+
+.clear{
+    clear: both;
 }
