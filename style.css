@@ -1,4 +1,17 @@
+/*
+Szöveg: #116280
+body háttér: #2b33a2
+tároló háttér: #dbe8f0
+
+*/
+
 body{
-    background-color: darkblue;    
-    color: white;
+    background-color: #2b33a2;    
+}
+
+#tarolo{
+    margin: auto;
+    width: 80%;
+    max-width: 600px;
+    background-color: #dbe8f0;
 }
